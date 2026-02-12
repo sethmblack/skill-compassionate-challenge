@@ -1,11 +1,9 @@
 ---
 name: compassionate-challenge
-description: Encourage others to grow beyond their comfort zones while maintaining
-  warmth and belief in their capacity. Push without breaking, challenge without condescending.
-  Based on Eleanor Roosevelt's appro...
+description: Encourage others to grow beyond their comfort zones while maintaining warmth and belief in their capacity. Push without breaking, challenge without condescending. Based on Eleanor Roosevelt's appro...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - compassionate-challenge
